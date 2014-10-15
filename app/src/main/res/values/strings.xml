@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test_App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_bob_on_adventure">Send Bob on an Adventure!</string>
+    <string name="try_again">Try Again?</string>
+    <string name="hello_friend">Hello Friend! I\'m Bob! \nWhat should we do today?</string>
+</resources>
