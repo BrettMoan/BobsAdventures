@@ -10,8 +10,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import java.util.Random;
 
-
-
 public class MyActivity extends Activity {
 
     private ArrayList<String> adventures;
@@ -64,6 +62,7 @@ public class MyActivity extends Activity {
         temp.add("Bob wants to go on an adventure with you. You set out on and adventure to the mountains. as you approach a mountain cave a dragon flys out of the cave burning Bob to a crisp. Bob is dead.");
         temp.add("Bob likes adventures. You go to a rock concert, meet Neil Patrick Harris, hit the night life and return home. Bob thanks you for being such a great friend.");
 
+
         // assign the temp array list into the adventures ArrayList
         return temp;
     }
@@ -114,10 +113,6 @@ public class MyActivity extends Activity {
 
         // set flag for changeText() logic
         this.flag = true;
-
     }
-
-
-
 
 }
